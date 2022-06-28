@@ -12,7 +12,7 @@
 /*   By: fatpound                                                              */
 /*                                                                             */
 /*   Created: 19/02/2022 00:17:19 by fatpound                                  */
-/*   Updated: 07/06/2022 06:04:09 by fatpound                                  */
+/*   Updated: 28/06/2022 11:50:10 by fatpound                                  */
 /*                                                                             */
 /*******************************************************************************/
 
@@ -29,8 +29,8 @@
 #define RIGHT 'd'
 #define LEFT  'a'
 
-#define END    27 // ESC (Terminate)
 #define WIN   'n'
+#define END   0x1b // ESC (Terminate)
 
 #define MAX_SIZE 15
 
